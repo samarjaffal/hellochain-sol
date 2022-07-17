@@ -1,19 +1,18 @@
 # HelloChain
+HelloChain es un proyecto desarrollado en un curso tomado en la plataforma [buildspace](https://buildspace.so/) con el fin de aprender nuevas tecnologías
+relacionadas a web3.
 
-Welcome to HelloChain!
-This project is just for testing and practices purposes. People can send a new hello and interact with the blockhain 🌐
-# Basic Sample Hardhat Project
+![FJu0nk_XoAAiYA_](https://user-images.githubusercontent.com/48697305/179380409-3c58d985-70da-4ea7-a91b-9ace9596bc85.png)
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+## Tecnologías usadas
+- Solidity
+- Hardhat
+- React
 
-Try running some of the following tasks:
+## Descripción
+El proyecto permite que un usuario se logre autenticar a través del uso de una cartera digital como por ejemplo Metamask. Una vez autenticado, el usuario
+tiene acceso a poder dejar un saludo dentro de la página usando la dirección de cartera con la que se autenticó. También puede ver el saludo de otros 
+usuarios.
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+[**Enlace al repositorio del front**](https://github.com/samarjaffal/hellochain-app)\
+[**Visita el demo**](https://hellochain-app.samarjaffal.repl.co/)
